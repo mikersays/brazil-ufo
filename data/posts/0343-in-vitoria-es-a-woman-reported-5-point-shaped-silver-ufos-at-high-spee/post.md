@@ -1,0 +1,9 @@
+# In Vitória-ES, a woman reported 5 point-shaped silver UFOs at high speed [1993]
+
+*2020-07-06T13:52:44-03:00*
+
+JAN 5th, 1992. Time: 5:05 am. Duration: 15 minutes. A witness from Vitória, in the state of Espírito Santo, when “lying down, looking at the sky, saw a “point” as if it were a star. Minutes later, she observed other points”. According to the witness, she was with 3 more people who also spotted the 5 shiny silver, point-shaped UFOs, “the size of a star”, as seen in the firmament, at high speed. The five unidentified flying objects “appeared one minute apart” at an altitude “possibly of an aircraft” during a flight. The five UFOs appeared in the West region, on the approach ramp of Vitória Airport, always on the “North / South” trajectory, varying at an angle of approximately 30° from each other. The entire sighting took place with clear skies, at the beginning of the day and in good visibility conditions. To the COMDABRA [Brazilian Aerospace Defense Command], the witness also stated that: “She always believed in UFOs”.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.335. “Questionário sobre ocorrência de objeto voador não identificado na região do bairro de Vitória /, Estado do Espírito Santo”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

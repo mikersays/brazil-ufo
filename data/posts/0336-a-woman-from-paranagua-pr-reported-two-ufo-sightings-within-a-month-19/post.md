@@ -1,0 +1,9 @@
+# A woman from Paranaguá-PR reported two UFO sightings within a month [1993]
+
+*2020-07-06T00:26:33-03:00*
+
+APRIL 4th, 1993. 00:27 am. Duration: First sighting: 15 minutes. Second sighting: 5 minutes. A woman from Paranaguá, State of Paraná, reported two sightings of two unidentified flying objects that occurred within a month in her region. According to the witness, she was with her family when they observed two UFOs in the form of stars, however much smaller, with varied colors that changed from red and green, to white and blue. The UFOs moved slowly “at the height of airplanes”. The first sighting took place in March 1993 near the western sector of Curitiba. The second sighting occurred in the southeastern region of Curitiba. According to the witness, the two were UFOs flying apart and “spinning around their own axis”. According to the observations in the report provided to COMDABRA [Brazilian Aerospace Defense Command], “nothing was detected on the radar”. The sighting took place with the naked eye and with good visibility.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.343. “Questionário sobre ocorrência de objeto voador não identificado na região de Paranaguá, Estado do Paraná”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

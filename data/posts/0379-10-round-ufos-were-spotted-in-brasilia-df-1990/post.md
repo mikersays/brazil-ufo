@@ -1,0 +1,9 @@
+# 10 round UFOs were spotted in Brasília-DF [1990]
+
+*2020-07-08T18:34:38-03:00*
+
+APRIL 18th, 1990. 22:32. Duration: 5 seconds. A resident of Brasília, Distrito Federal, reported the sighting of 10 UFOs that appeared successively, coming from the North position and following the Northwest. According to the witness, the unidentified flying objects were circular in shape, red in color and “quite fast”. The sighting came when “the observer went out to his apartment window at around 10:15 pm and saw lights that at first he thought were reflexes of the car headlight”. Also according to the witness, the UFOs were “approximately 5km” from the observer, who “was on AOS 7 and the UFO over mineral water”. The UFOs appeared in the sky as “five objects, then four, then an isolate”. The sighting was done with the naked eye and with good visibility conditions. Complementary data from COMDABRA [Brazilian Aerospace Defense Command]: “[…] the observer reported that the last object had twice the diameter of the previous ones and moved more slowly”.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.284. “Questionário sobre ocorrência de objeto voador não identificado na região de Brasília”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

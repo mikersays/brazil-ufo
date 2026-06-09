@@ -1,0 +1,9 @@
+# A flight Controller observed and detected 5 UFOs near Guarulhos-SP [1987]
+
+*2020-07-10T18:22:03-03:00*
+
+DEC 13th, 1987. Time: 00:50 am. Duration: 10 minutes. A flight controller from Guarulhos Airport, State of São Paulo, observed with the naked eye and then checked on the radar “approximately 5 (five) small and close targets”. The military realized that “the position matched the visual observation”. According to the reporting witness, the UFOs “changed positions, but 2 (two) of them were seen at the end of lanes 09 and 27, respectively”. As for the location, the UFOs were in the “Southeast of Guarulhos, close to the BONSUCESSO position”. Visually, the UFOs had an “oval” shape, moved slowly and [when] “seen in the binoculars were the size of the thumbnails. Without the binoculars they were quite small”. Regarding the quantity, “the largest amount seen was 5 (five) objects. Sometimes one decreased when some other disappeared”. The UFOs flew sometimes close, sometimes separate, as when 1 (one) was seen at the headboard 09 and seconds later the same one, or perhaps another, at the headboard 27. The objects made “most of the time straight and sometimes circular trajectories”.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.264. “Relato sobre observação de OVNI”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

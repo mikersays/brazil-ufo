@@ -1,0 +1,59 @@
+# A UFO with strong luminosity triggered the air defense fighter jets in Anápolis [2001]**
+
+*2020-06-12T23:26:02-03:00*
+
+DESCRIPTIVE REPORT OF THE VIEW OF AN UNIDENTIFIED OBJECT IN ANAPOLIS
+
+On March 23, 2001, around 15:00 P, in the city of Anápolis (GO), a brilliant object was seen by several BAAN soldiers hovering on the 165 ANP radial, whose individual description of the fact will be made next by the observers.
+
+1. Report of the Air Defense Alert pilot (Cap.-Av. ………)
+
+At around 14:45 P, when I was an Alert Pilot, I was activated by the Air Defense through the OPO, having continued to roll until close to the headboard 06. In this position, I received the order to return to the hangarete and remain on the aircraft, as contact with a probable unidentified aircraft had been lost by COPM radar. In this situation, I stayed for approximately 20 minutes, not knowing the reason why.
+
+After being allowed to leave the Mirage, I communicated with Cap.-Av. …. (OPO of the day) via phone. This told me that there was a bright object being seen on the 165 radial of Anápolis, around 25 to 35 nm and that APP Anápolis had radar contact with it. He then instructed me to be “alert”, as an alert could be triggered to verify the fact.
+
+I positioned myself closer to the plane, trying to spot the object from there, not succeeding due to the existing eucalyptus trees in the desired direction.
+
+At exactly 15:50P ALEDA was activated. During the taxi to the headboard 06, I received the information that, after takeoff, I should turn to the bow 165 ° and climb up to 10,000 ft. Taking off, when reaching the desired bow, I saw something brilliant 30 ° to my right, having at the moment, the impression that such an object was approximately 20 nm from my position. It is worth mentioning that this distance is quite subjective, mainly due to the difficulty of evaluating it in that situation where the bright spot was present.
+
+At the very moment when I diverted my attention to the interior of the aircraft, I lost eye contact with the object, not seeing it from that moment on. I proceeded to the estimated position he was in, going up to FL 150 and after FL 200. All searches were in vain. I continued the flight until I reached the fuel for landing and resumed afterwards.
+
+2. OPO report (Cap.-………)
+
+At about 15:00P, I was informed by TWR of Anápolis about an object that was being seen by the military of that control organ and that the APP had its plot on the radar (Radial 165 ° approximately 25NM).
+
+I asked my assistant to remain in the OPO room and went outside in order to verify the fact.
+
+According to the description of the position given by TWR, I made a visual search in the informed sector and obtained contact with the object.
+
+With a strong silver-colored luminosity, the object remained stationary for as long as I could observe (+ – 7 minutes).
+
+After that period, I was questioned by COPM on the existence of an unidentified object in the radial and distance already mentioned.
+
+After a few minutes, the ALERT was activated. I remained in the OPO room until the end of the “ALFA” period, being informed by the control bodies (TWR and APP) about the disappearance of the object after the approach of the DA Alert aircraft.
+
+It is noteworthy that it was not possible to identify any shape of the object, given the strong luminosity and its distance.
+
+3. Anápolis Tower Operator’s Report (3S …….)
+
+At service on the 23 / MAR / 01, around 15: 00P, we received calls at extension 4471, being informed by civilians from Ipameri and Catalão about the presence of an Unidentified Flying Object evolving in that region.
+
+At about 15:20, the object was seen by the operators of the Anápolis Tower, just above a layer of clouds in the southern sector of Anápolis, having the appearance and luminosity similar to that of a star. Such an object did not present visible movements, remaining in place and alternating between the shades of silver and pink.
+
+Contact was made with OPO Anápolis informing the fact.
+
+Right after BAAN’s JG-LEO alert aircraft took off, the cloud layer evolved to obscure our vision.
+
+The Anápolis Control had contact with the object, approximately at 25 (twenty five miles), between the radial 160 ° and 180 °.
+
+This object was spotted, with the naked eye, by several military personnel in the vicinity of the DPV.
+
+4. Pilot SAR report sent in Fax s / n on 03 APR 2001
+
+Observer: Cap.-Av. ……..; Observation location: SCOAM yard in Anápolis; Observed Object: Shiny body in the southeast sector of the aerodrome. Approximately 20 degrees above the horizon; Observed Situation: Takeoff of the F-103 with right curve and rise to the level of the object, which disappeared with the approach of the aircraft; Approximate time: At 15.00 local; Observation made with the naked eye.
+
+[…] Cap-Av. – Alert Pilot of the Day 23MAR2001
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.603. “Relatório descritivo da visualização de um objeto não identificado em Anápolis, Goiás, avistado por diversos militares da Aeronáutica”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE

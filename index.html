@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SIOANI · Brazilian UFO Archives — Declassified Case Browser</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Spectral:ital,wght@0,300;0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#0c0e0d;
+  --ink-1:#111413;
+  --ink-2:#171b19;
+  --ink-3:#1f2421;
+  --line:#2c322e;
+  --paper:#e7decb;
+  --paper-2:#cfc3a6;
+  --paper-dim:#9a9079;
+  --muted:#6f7a72;
+  --stamp:#bf3b2b;
+  --stamp-deep:#8f2a1f;
+  --amber:#d9a441;
+  --teal:#46938a;
+  --teal-dim:#2c5953;
+  --grid: rgba(70,147,138,.07);
+  --shadow: 0 24px 60px -20px rgba(0,0,0,.8);
+  --mono:'IBM Plex Mono',ui-monospace,monospace;
+  --disp:'Oswald',sans-serif;
+  --serif:'Spectral',Georgia,serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--ink);
+  color:var(--paper);
+  font-family:var(--serif);
+  font-size:16px;
+  line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+  overflow-x:hidden;
+}
+/* ---------- atmosphere ---------- */
+body::before{ /* grain */
+  content:"";position:fixed;inset:0;z-index:9998;pointer-events:none;opacity:.05;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  mix-blend-mode:overlay;
+}
+body::after{ /* scanlines + vignette */
+  content:"";position:fixed;inset:0;z-index:9997;pointer-events:none;
+  background:
+    repeating-linear-gradient(0deg, rgba(0,0,0,.18) 0, rgba(0,0,0,.18) 1px, transparent 2px, transparent 4px),
+    radial-gradient(120% 120% at 50% 0%, transparent 55%, rgba(0,0,0,.55) 100%);
+  opacity:.5;
+}
+::selection{background:var(--stamp);color:#fff}
+::-webkit-scrollbar{width:11px;height:11px}
+::-webkit-scrollbar-track{background:var(--ink-1)}
+::-webkit-scrollbar-thumb{background:var(--ink-3);border:2px solid var(--ink-1)}
+::-webkit-scrollbar-thumb:hover{background:var(--teal-dim)}
+
+a{color:var(--teal);text-decoration:none}
+
+/* ---------- masthead ---------- */
+.masthead{
+  position:relative;border-bottom:1px solid var(--line);
+  background:
+    linear-gradient(180deg,var(--ink-1),var(--ink));
+  padding:28px clamp(18px,4vw,56px) 22px;
+  overflow:hidden;
+}
+.masthead::before{ /* faint radar rings */
+  content:"";position:absolute;right:-120px;top:-160px;width:520px;height:520px;border-radius:50%;
+  background:
+    radial-gradient(circle, transparent 0 38%, var(--grid) 38% 39%, transparent 39%),
+    radial-gradient(circle, transparent 0 56%, var(--grid) 56% 57%, transparent 57%),
+    radial-gradient(circle, transparent 0 74%, var(--grid) 74% 75%, transparent 75%),
+    conic-gradient(from 0deg, transparent 0 80%, rgba(70,147,138,.10) 92%, transparent 100%);
+  animation:sweep 14s linear infinite;pointer-events:none;
+}
+@keyframes sweep{to{transform:rotate(360deg)}}
+.mast-row{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;flex-wrap:wrap;position:relative;z-index:1}
+.brand{display:flex;flex-direction:column;gap:2px}
+.kicker{font-family:var(--mono);font-size:11px;letter-spacing:.42em;color:var(--teal);text-transform:uppercase}
+h1{
+  font-family:var(--disp);font-weight:700;text-transform:uppercase;
+  font-size:clamp(30px,5.2vw,58px);line-height:.92;letter-spacing:.01em;margin:.12em 0 0;
+  color:var(--paper);
+}
+h1 .thin{font-weight:300;color:var(--paper-2)}
+.refcode{font-family:var(--mono);font-size:11px;letter-spacing:.18em;color:var(--paper-dim);margin-top:8px}
+.refcode b{color:var(--amber);font-weight:600}
+.stamp{
+  font-family:var(--disp);font-weight:700;text-transform:uppercase;letter-spacing:.06em;
+  color:var(--stamp);border:3px double var(--stamp);border-radius:6px;
+  padding:6px 14px;font-size:clamp(15px,2vw,22px);transform:rotate(7deg);
+  box-shadow:inset 0 0 0 1px rgba(191,59,43,.25);
+  position:relative;white-space:nowrap;opacity:.92;
+  text-shadow:0 0 1px rgba(191,59,43,.4);
+}
+.stamp small{display:block;font-size:.5em;letter-spacing:.3em;color:var(--stamp-deep);text-align:center}
+.stat{font-family:var(--mono);font-size:11px;color:var(--paper-dim);text-align:right;letter-spacing:.1em}
+.stat b{font-family:var(--disp);font-size:30px;color:var(--amber);display:block;font-weight:600;letter-spacing:.02em}
+
+/* ---------- layout ---------- */
+.shell{display:grid;grid-template-columns:288px 1fr;gap:0;min-height:60vh}
+@media(max-width:880px){.shell{grid-template-columns:1fr}}
+.rail{
+  border-right:1px solid var(--line);background:var(--ink-1);
+  padding:22px clamp(16px,1.5vw,22px);position:sticky;top:0;align-self:start;
+  max-height:100vh;overflow:auto;
+}
+@media(max-width:880px){.rail{position:static;max-height:none;border-right:none;border-bottom:1px solid var(--line)}}
+.search-wrap{position:relative;margin-bottom:22px}
+.search-wrap .mag{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted);font-family:var(--mono)}
+#search{
+  width:100%;background:var(--ink-3);border:1px solid var(--line);color:var(--paper);
+  font-family:var(--mono);font-size:13px;padding:12px 12px 12px 32px;border-radius:4px;letter-spacing:.04em;
+  outline:none;transition:border-color .2s,box-shadow .2s;
+}
+#search:focus{border-color:var(--teal);box-shadow:0 0 0 3px rgba(70,147,138,.15)}
+#search::placeholder{color:var(--muted)}
+.facet{margin-bottom:20px}
+.facet > .lbl{
+  font-family:var(--mono);font-size:10px;letter-spacing:.28em;text-transform:uppercase;color:var(--amber);
+  display:flex;align-items:center;gap:8px;margin-bottom:10px;
+}
+.facet > .lbl::after{content:"";flex:1;height:1px;background:var(--line)}
+select, .facet input[type=number]{
+  width:100%;background:var(--ink-3);border:1px solid var(--line);color:var(--paper);
+  font-family:var(--mono);font-size:12px;padding:8px 10px;border-radius:4px;outline:none;
+}
+select:focus{border-color:var(--teal)}
+.year-row{display:flex;gap:8px;align-items:center}
+.year-row span{color:var(--muted);font-family:var(--mono);font-size:11px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{
+  font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;
+  padding:5px 9px;border:1px solid var(--line);border-radius:100px;color:var(--paper-dim);
+  cursor:pointer;user-select:none;transition:all .15s;background:var(--ink-2);
+}
+.chip:hover{border-color:var(--teal);color:var(--paper)}
+.chip.on{background:var(--teal-dim);border-color:var(--teal);color:#eafdf8}
+.toggle{display:flex;gap:8px}
+.toggle .chip{flex:1;text-align:center}
+.reset{
+  width:100%;margin-top:6px;background:transparent;border:1px dashed var(--line);color:var(--muted);
+  font-family:var(--mono);font-size:11px;letter-spacing:.15em;text-transform:uppercase;padding:9px;border-radius:4px;cursor:pointer;
+}
+.reset:hover{border-color:var(--stamp);color:var(--stamp)}
+
+/* ---------- results ---------- */
+.results{padding:20px clamp(16px,3vw,40px) 80px}
+.results-head{
+  display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;
+  margin-bottom:18px;border-bottom:1px solid var(--line);padding-bottom:12px;
+}
+.results-head .count{font-family:var(--mono);font-size:12px;letter-spacing:.14em;color:var(--paper-dim)}
+.results-head .count b{color:var(--amber);font-size:15px}
+.sort-wrap{display:flex;align-items:center;gap:8px}
+.sort-wrap label{font-family:var(--mono);font-size:10px;letter-spacing:.2em;color:var(--muted);text-transform:uppercase}
+.sort-wrap select{width:auto}
+
+.grid{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:16px;
+}
+.card{
+  position:relative;background:
+     linear-gradient(180deg,var(--ink-2),var(--ink-1));
+  border:1px solid var(--line);border-radius:5px;padding:0;overflow:hidden;
+  cursor:pointer;transition:transform .18s,border-color .18s,box-shadow .18s;
+  display:flex;flex-direction:column;min-height:184px;
+  opacity:0;animation:rise .5s ease forwards;
+}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.card:hover{transform:translateY(-4px);border-color:var(--teal);box-shadow:var(--shadow)}
+.card .tab{
+  display:flex;align-items:center;justify-content:space-between;gap:8px;
+  padding:9px 12px;border-bottom:1px solid var(--line);background:rgba(0,0,0,.22);
+}
+.card .cid{font-family:var(--mono);font-size:11px;letter-spacing:.12em;color:var(--amber)}
+.card .yr{font-family:var(--mono);font-size:11px;color:var(--paper-dim)}
+.card .body{padding:13px 14px 14px;display:flex;flex-direction:column;gap:9px;flex:1}
+.card h3{
+  font-family:var(--disp);font-weight:500;text-transform:uppercase;font-size:15px;line-height:1.18;
+  margin:0;letter-spacing:.01em;color:var(--paper);
+  display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
+}
+.card .loc{font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;color:var(--teal);text-transform:uppercase}
+.card .sum{font-size:13px;color:var(--paper-dim);line-height:1.4;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-style:italic}
+.card .meta{display:flex;flex-wrap:wrap;gap:5px;margin-top:auto;padding-top:4px}
+.tagm{font-family:var(--mono);font-size:9.5px;letter-spacing:.05em;text-transform:uppercase;
+  padding:3px 7px;border-radius:3px;border:1px solid var(--line);color:var(--paper-dim)}
+.tagm.shape{border-color:var(--teal-dim);color:var(--teal)}
+.tagm.occ{border-color:var(--stamp-deep);color:var(--stamp);}
+.card .photo-badge{
+  position:absolute;top:0;right:0;background:var(--stamp);color:#fff;font-family:var(--mono);
+  font-size:9px;letter-spacing:.14em;padding:3px 8px;transform:rotate(0);text-transform:uppercase;
+  border-bottom-left-radius:5px;z-index:2;
+}
+.card.has-photo{border-color:var(--stamp-deep)}
+.card .thumb{height:120px;background-size:cover;background-position:center;border-bottom:1px solid var(--line);
+  filter:saturate(.7) contrast(1.05);position:relative}
+.card .thumb::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 40%,rgba(0,0,0,.5))}
+.empty{padding:60px 20px;text-align:center;font-family:var(--mono);color:var(--muted);letter-spacing:.1em}
+
+/* ---------- detail overlay ---------- */
+.overlay{
+  position:fixed;inset:0;z-index:9990;background:rgba(4,6,5,.84);backdrop-filter:blur(3px);
+  display:none;align-items:flex-start;justify-content:center;padding:max(20px,4vh) 16px;overflow:auto;
+}
+.overlay.open{display:flex;animation:fade .25s ease}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.dossier{
+  width:min(920px,100%);background:linear-gradient(180deg,var(--ink-1),var(--ink));
+  border:1px solid var(--line);border-radius:6px;box-shadow:var(--shadow);
+  position:relative;animation:rise .35s ease;
+}
+.dossier .close{
+  position:absolute;top:14px;right:14px;z-index:5;background:var(--ink-3);border:1px solid var(--line);
+  color:var(--paper);width:38px;height:38px;border-radius:4px;cursor:pointer;font-family:var(--mono);font-size:16px;
+}
+.dossier .close:hover{border-color:var(--stamp);color:var(--stamp)}
+.dh{
+  padding:26px clamp(20px,4vw,44px) 18px;border-bottom:2px solid var(--line);position:relative;
+  background:repeating-linear-gradient(90deg,transparent 0 38px,rgba(70,147,138,.025) 38px 39px);
+}
+.dh .file-no{font-family:var(--mono);font-size:11px;letter-spacing:.2em;color:var(--amber)}
+.dh h2{font-family:var(--disp);font-weight:600;text-transform:uppercase;font-size:clamp(20px,3.2vw,30px);
+  line-height:1.05;margin:8px 0 6px;color:var(--paper);letter-spacing:.01em}
+.dh .dh-sub{font-family:var(--mono);font-size:12px;color:var(--teal);letter-spacing:.08em;text-transform:uppercase}
+.dgrid{display:grid;grid-template-columns:230px 1fr;gap:0}
+@media(max-width:760px){.dgrid{grid-template-columns:1fr}}
+.dmeta{border-right:1px solid var(--line);padding:22px clamp(18px,2.5vw,26px);background:var(--ink-1)}
+@media(max-width:760px){.dmeta{border-right:none;border-bottom:1px solid var(--line)}}
+.dmeta dl{margin:0;display:flex;flex-direction:column;gap:14px}
+.dmeta dt{font-family:var(--mono);font-size:9.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--muted)}
+.dmeta dd{margin:2px 0 0;font-family:var(--mono);font-size:13px;color:var(--paper)}
+.dmeta dd.big{font-family:var(--disp);font-size:22px;color:var(--amber);font-weight:500}
+.dmeta .efflist{display:flex;flex-wrap:wrap;gap:5px;margin-top:3px}
+.dmeta .efflist span{font-family:var(--mono);font-size:9.5px;padding:3px 7px;border:1px solid var(--teal-dim);
+  color:var(--teal);border-radius:3px;text-transform:uppercase;letter-spacing:.05em}
+.dbody{padding:24px clamp(18px,3vw,36px) 40px;min-width:0}
+.doc{
+  font-family:var(--serif);font-size:16.5px;line-height:1.72;color:var(--paper);
+  background:rgba(231,222,203,.025);border-left:2px solid var(--teal-dim);padding:4px 0 4px 20px;
+}
+.doc h1,.doc h2,.doc h3,.doc h4,.doc h5{font-family:var(--disp);text-transform:uppercase;color:var(--amber);
+  font-weight:500;letter-spacing:.02em;line-height:1.2;margin:1.2em 0 .4em}
+.doc p{margin:0 0 1em;text-align:justify;hyphens:auto}
+.doc strong{color:var(--paper);font-weight:600}
+.doc img{max-width:100%;height:auto;display:block;margin:18px auto;border:1px solid var(--line);
+  filter:saturate(.8) contrast(1.05);box-shadow:var(--shadow)}
+.doc a{color:var(--teal);border-bottom:1px dotted var(--teal-dim)}
+.doc iframe{max-width:100%}
+.plates{margin-top:8px}
+.plate-label{font-family:var(--mono);font-size:10px;letter-spacing:.24em;color:var(--stamp);text-transform:uppercase;
+  margin:24px 0 10px;display:flex;align-items:center;gap:10px}
+.plate-label::after{content:"";flex:1;height:1px;background:var(--line)}
+.loading{font-family:var(--mono);color:var(--muted);letter-spacing:.18em;padding:30px 0;text-align:center}
+.loading::after{content:"_";animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.src-link{font-family:var(--mono);font-size:11px;color:var(--paper-dim);margin-top:26px;
+  border-top:1px solid var(--line);padding-top:14px;display:block}
+
+/* footer */
+.foot{border-top:1px solid var(--line);padding:26px clamp(18px,4vw,56px);font-family:var(--mono);
+  font-size:11px;color:var(--muted);letter-spacing:.08em;line-height:1.7;background:var(--ink-1)}
+.foot b{color:var(--paper-dim)}
+.boot{position:fixed;inset:0;z-index:10000;background:var(--ink);display:flex;align-items:center;justify-content:center;
+  font-family:var(--mono);color:var(--teal);letter-spacing:.3em;flex-direction:column;gap:14px;transition:opacity .5s}
+.boot.gone{opacity:0;pointer-events:none}
+.boot .b1{font-size:12px;color:var(--muted)}
+.boot .b2{font-family:var(--disp);font-size:26px;color:var(--amber);letter-spacing:.1em;text-transform:uppercase}
+</style>
+</head>
+<body>
+
+<div class="boot" id="boot">
+  <div class="b1">ACCESSING · ARQUIVO NACIONAL · OVNI</div>
+  <div class="b2">Decrypting Case Files…</div>
+</div>
+
+<header class="masthead">
+  <div class="mast-row">
+    <div class="brand">
+      <span class="kicker">Sistema de Informações · OVNI · SIOANI</span>
+      <h1>Brazilian UFO <span class="thin">Archives</span></h1>
+      <div class="refcode">REF · <b>BR DFANBSB ARX.0.0</b> · ARQUIVO NACIONAL DO BRASIL · 1952–2015</div>
+    </div>
+    <div style="display:flex;align-items:center;gap:22px">
+      <div class="stat"><b id="statTotal">—</b>DECLASSIFIED CASES</div>
+      <div class="stamp">Declassified<small>Acesso Liberado</small></div>
+    </div>
+  </div>
+</header>
+
+<div class="shell">
+  <aside class="rail">
+    <div class="search-wrap">
+      <span class="mag">⌕</span>
+      <input id="search" type="text" placeholder="search cases, places, keywords…" autocomplete="off">
+    </div>
+
+    <div class="facet">
+      <div class="lbl">Year of Sighting</div>
+      <div class="year-row">
+        <input type="number" id="yearMin" placeholder="1952">
+        <span>→</span>
+        <input type="number" id="yearMax" placeholder="2015">
+      </div>
+    </div>
+
+    <div class="facet">
+      <div class="lbl">State (UF)</div>
+      <select id="stateSel"><option value="">— all states —</option></select>
+    </div>
+
+    <div class="facet">
+      <div class="lbl">Craft Shape</div>
+      <select id="shapeSel"><option value="">— any shape —</option></select>
+    </div>
+
+    <div class="facet">
+      <div class="lbl">Occupants Reported</div>
+      <div class="toggle" id="occToggle">
+        <div class="chip" data-occ="any">Any</div>
+        <div class="chip" data-occ="yes">Yes</div>
+        <div class="chip" data-occ="no">No</div>
+      </div>
+    </div>
+
+    <div class="facet">
+      <div class="lbl">Reported Effects</div>
+      <div class="chips" id="effChips"></div>
+    </div>
+
+    <div class="facet">
+      <div class="lbl">Source</div>
+      <select id="srcSel"><option value="">— any source —</option></select>
+    </div>
+
+    <button class="reset" id="resetBtn">↺ Reset all filters</button>
+  </aside>
+
+  <main class="results">
+    <div class="results-head">
+      <div class="count"><b id="shownCount">0</b> / <span id="totalCount">0</span> case files match</div>
+      <div class="sort-wrap">
+        <label for="sortSel">Sort</label>
+        <select id="sortSel">
+          <option value="idx">Archive order</option>
+          <option value="yearAsc">Year ↑</option>
+          <option value="yearDesc">Year ↓</option>
+          <option value="photos">Photographic first</option>
+          <option value="az">Title A–Z</option>
+        </select>
+      </div>
+    </div>
+    <div class="grid" id="grid"></div>
+    <div class="empty" id="empty" style="display:none">— NO CASE FILES MATCH THE CURRENT FILTERS —</div>
+  </main>
+</div>
+
+<footer class="foot">
+  <b>Brazilian UFO Archives</b> — a private archival initiative; not endorsed by the Arquivo Nacional do Brasil.
+  Original documents reside in the <b>“Objeto Voador Não Identificado (OVNI)”</b> fund, ref. BR DFANBSB ARX.0.0.
+  Locally extracted &amp; indexed via <b>tools/extract.py</b>. Structured metadata generated by an automated analysis swarm and may contain errors — consult the source text for each case.
+</footer>
+
+<div class="overlay" id="overlay">
+  <article class="dossier" id="dossier">
+    <button class="close" id="closeBtn" aria-label="close">✕</button>
+    <div id="dossierContent"></div>
+  </article>
+</div>
+
+<script>
+const SHAPE_LABEL = {
+  'disc/saucer':'Disc / Saucer','sphere/globe':'Sphere / Globe','light':'Light Source',
+  'cigar/cylinder':'Cigar / Cylinder','triangle':'Triangle','egg/oval':'Egg / Oval',
+  'hat/dome':'Hat / Dome','other':'Other','unknown':'Unknown'
+};
+const SRC_LABEL = {
+  'official-military-report':'Official military report','national-archive-case':'National Archive case',
+  'witness-testimony':'Witness testimony','press':'Press','investigation':'Investigation','other':'Other'
+};
+const state = {q:'',yearMin:null,yearMax:null,st:'',shape:'',occ:'any',eff:new Set(),src:'',sort:'idx'};
+let POSTS=[];
+
+const $=s=>document.querySelector(s);
+const esc=s=>(s==null?'':String(s)).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+async function boot(){
+  let data;
+  try{ data=await (await fetch('data/index.json',{cache:'no-store'})).json(); }
+  catch(e){ document.getElementById('boot').innerHTML='<div class="b2" style="color:var(--stamp)">data/index.json not found</div><div class="b1">run a local server from the repo root: python3 -m http.server</div>'; return; }
+  POSTS=data.posts||[];
+  $('#statTotal').textContent=POSTS.length;
+  buildFacets();
+  bindUI();
+  render();
+  setTimeout(()=>document.getElementById('boot').classList.add('gone'),350);
+}
+
+function uniqSorted(vals){return [...new Set(vals.filter(Boolean))].sort();}
+
+function buildFacets(){
+  // states
+  const states=uniqSorted(POSTS.map(p=>p.state));
+  $('#stateSel').insertAdjacentHTML('beforeend',states.map(s=>`<option value="${esc(s)}">${esc(s)}</option>`).join(''));
+  // shapes
+  const shapes=uniqSorted(POSTS.map(p=>p.craft_shape));
+  $('#shapeSel').insertAdjacentHTML('beforeend',shapes.map(s=>`<option value="${esc(s)}">${esc(SHAPE_LABEL[s]||s)}</option>`).join(''));
+  // sources
+  const srcs=uniqSorted(POSTS.map(p=>p.source_type));
+  $('#srcSel').insertAdjacentHTML('beforeend',srcs.map(s=>`<option value="${esc(s)}">${esc(SRC_LABEL[s]||s)}</option>`).join(''));
+  // effects
+  const effs=uniqSorted(POSTS.flatMap(p=>p.effects||[])).filter(e=>e!=='none');
+  $('#effChips').innerHTML=effs.map(e=>`<span class="chip" data-eff="${esc(e)}">${esc(e.replace(/-/g,' '))}</span>`).join('');
+}
+
+function bindUI(){
+  $('#search').addEventListener('input',e=>{state.q=e.target.value.toLowerCase().trim();render();});
+  $('#yearMin').addEventListener('input',e=>{state.yearMin=e.target.value?+e.target.value:null;render();});
+  $('#yearMax').addEventListener('input',e=>{state.yearMax=e.target.value?+e.target.value:null;render();});
+  $('#stateSel').addEventListener('change',e=>{state.st=e.target.value;render();});
+  $('#shapeSel').addEventListener('change',e=>{state.shape=e.target.value;render();});
+  $('#srcSel').addEventListener('change',e=>{state.src=e.target.value;render();});
+  $('#sortSel').addEventListener('change',e=>{state.sort=e.target.value;render();});
+  $('#occToggle').addEventListener('click',e=>{const c=e.target.closest('[data-occ]');if(!c)return;
+    state.occ=c.dataset.occ;[...$('#occToggle').children].forEach(x=>x.classList.toggle('on',x===c));render();});
+  $('#effChips').addEventListener('click',e=>{const c=e.target.closest('[data-eff]');if(!c)return;
+    const k=c.dataset.eff;state.eff.has(k)?state.eff.delete(k):state.eff.add(k);c.classList.toggle('on');render();});
+  $('#resetBtn').addEventListener('click',resetAll);
+  $('#closeBtn').addEventListener('click',closeDetail);
+  $('#overlay').addEventListener('click',e=>{if(e.target===$('#overlay'))closeDetail();});
+  document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDetail();});
+  // default occ
+  $('#occToggle').children[0].classList.add('on');
+}
+
+function resetAll(){
+  Object.assign(state,{q:'',yearMin:null,yearMax:null,st:'',shape:'',occ:'any',eff:new Set(),src:'',sort:'idx'});
+  $('#search').value='';$('#yearMin').value='';$('#yearMax').value='';
+  $('#stateSel').value='';$('#shapeSel').value='';$('#srcSel').value='';$('#sortSel').value='idx';
+  [...$('#occToggle').children].forEach((x,i)=>x.classList.toggle('on',i===0));
+  [...$('#effChips').children].forEach(x=>x.classList.remove('on'));
+  render();
+}
+
+function matches(p){
+  if(state.q){
+    const hay=[p.title,p.summary,p.location,p.state,p.text_preview,(p.keywords||[]).join(' '),(p.tags||[]).join(' ')].join(' ').toLowerCase();
+    if(!hay.includes(state.q))return false;
+  }
+  if(state.yearMin!=null && (p.sighting_year==null||p.sighting_year<state.yearMin))return false;
+  if(state.yearMax!=null && (p.sighting_year==null||p.sighting_year>state.yearMax))return false;
+  if(state.st && p.state!==state.st)return false;
+  if(state.shape && p.craft_shape!==state.shape)return false;
+  if(state.src && p.source_type!==state.src)return false;
+  if(state.occ==='yes' && !p.occupants)return false;
+  if(state.occ==='no' && p.occupants)return false;
+  if(state.eff.size){const set=new Set(p.effects||[]);for(const e of state.eff)if(!set.has(e))return false;}
+  return true;
+}
+
+function sortPosts(arr){
+  const a=[...arr];
+  switch(state.sort){
+    case'yearAsc':a.sort((x,y)=>(x.sighting_year??9999)-(y.sighting_year??9999));break;
+    case'yearDesc':a.sort((x,y)=>(y.sighting_year??-1)-(x.sighting_year??-1));break;
+    case'photos':a.sort((x,y)=>(y.image_count||0)-(x.image_count||0)||x.index-y.index);break;
+    case'az':a.sort((x,y)=>(x.title||'').localeCompare(y.title||''));break;
+    default:a.sort((x,y)=>x.index-y.index);
+  }
+  return a;
+}
+
+function cardHTML(p,i){
+  const cid=String(p.index).padStart(4,'0');
+  const yr=p.sighting_year||'—';
+  const loc=[p.location,p.state].filter(Boolean).join(' · ')||'LOCATION UNRECORDED';
+  const shape=p.craft_shape&&p.craft_shape!=='unknown'?`<span class="tagm shape">${esc(SHAPE_LABEL[p.craft_shape]||p.craft_shape)}</span>`:'';
+  const occ=p.occupants?`<span class="tagm occ">◉ Occupants</span>`:'';
+  const photo=p.image_count>0;
+  const thumb=photo&&p.thumbnail?`<div class="thumb" style="background-image:url('data:image/gif;base64,R0lGODlhAQABAAAAACw=')" data-bg="data/posts/${esc(p.folder)}/${esc(p.thumbnail)}"></div>`:'';
+  const badge=photo?`<span class="photo-badge">▣ ${p.image_count} plate${p.image_count>1?'s':''}</span>`:'';
+  const sum=p.summary?`<div class="sum">${esc(p.summary)}</div>`:`<div class="sum">${esc((p.text_preview||'').slice(0,140))}…</div>`;
+  return `<article class="card ${photo?'has-photo':''}" data-idx="${p.index}" style="animation-delay:${Math.min(i*18,520)}ms">
+    ${badge}${thumb}
+    <div class="tab"><span class="cid">CASE ${cid}</span><span class="yr">${esc(String(yr))}</span></div>
+    <div class="body">
+      <div class="loc">${esc(loc)}</div>
+      <h3>${esc(p.title||'Untitled case')}</h3>
+      ${sum}
+      <div class="meta">${shape}${occ}</div>
+    </div>
+  </article>`;
+}
+
+function render(){
+  const filtered=sortPosts(POSTS.filter(matches));
+  $('#shownCount').textContent=filtered.length;
+  $('#totalCount').textContent=POSTS.length;
+  const grid=$('#grid');
+  grid.innerHTML=filtered.map((p,i)=>cardHTML(p,i)).join('');
+  $('#empty').style.display=filtered.length?'none':'block';
+  // lazy load thumbs
+  grid.querySelectorAll('.thumb[data-bg]').forEach(el=>{
+    const img=new Image();img.onload=()=>{el.style.backgroundImage=`url('${el.dataset.bg}')`;};img.src=el.dataset.bg;
+  });
+  grid.querySelectorAll('.card').forEach(c=>c.addEventListener('click',()=>openDetail(+c.dataset.idx)));
+}
+
+async function openDetail(idx){
+  const p=POSTS.find(x=>x.index===idx);if(!p)return;
+  const cid=String(p.index).padStart(4,'0');
+  const loc=[p.location,p.state].filter(Boolean).join(', ')||'Unrecorded';
+  const effs=(p.effects||[]).filter(e=>e!=='none');
+  const meta=`
+    <dl>
+      <div><dt>Year of Sighting</dt><dd class="big">${esc(String(p.sighting_year||'—'))}</dd></div>
+      <div><dt>Location</dt><dd>${esc(loc)}</dd></div>
+      <div><dt>Craft Shape</dt><dd>${esc(SHAPE_LABEL[p.craft_shape]||p.craft_shape||'unknown')}</dd></div>
+      <div><dt>Occupants</dt><dd>${p.occupants?'◉ Reported':'— None reported'}</dd></div>
+      <div><dt>Effects</dt><dd>${effs.length?`<div class="efflist">${effs.map(e=>`<span>${esc(e.replace(/-/g,' '))}</span>`).join('')}</div>`:'— none noted'}</dd></div>
+      <div><dt>Source</dt><dd>${esc(SRC_LABEL[p.source_type]||p.source_type||'—')}</dd></div>
+      <div><dt>Photographs</dt><dd>${p.image_count||0} on file</dd></div>
+      <div><dt>Archive ID</dt><dd>CASE ${cid}</dd></div>
+    </dl>`;
+  $('#dossierContent').innerHTML=`
+    <div class="dh">
+      <div class="file-no">CASE FILE ${cid} · ARX.0.0</div>
+      <h2>${esc(p.title||'Untitled case')}</h2>
+      <div class="dh-sub">${esc(loc)} · ${esc(String(p.sighting_year||'date unknown'))}</div>
+    </div>
+    <div class="dgrid">
+      <div class="dmeta">${meta}</div>
+      <div class="dbody">
+        ${p.summary?`<p style="font-style:italic;color:var(--paper-2);margin-top:0;border-bottom:1px solid var(--line);padding-bottom:14px">${esc(p.summary)}</p>`:''}
+        <div class="doc" id="docBody"><div class="loading">RETRIEVING TRANSCRIPT</div></div>
+        ${p.url?`<a class="src-link" href="${esc(p.url)}" target="_blank" rel="noopener">↗ Original source record — ${esc(p.url)}</a>`:''}
+      </div>
+    </div>`;
+  $('#overlay').classList.add('open');
+  $('#dossier').scrollTop=0;document.body.style.overflow='hidden';
+  // fetch body
+  try{
+    let htmlText=await (await fetch(`data/posts/${p.folder}/content.html`,{cache:'no-store'})).text();
+    htmlText=htmlText.replace(/(src|href)\s*=\s*"images\//g,`$1="data/posts/${p.folder}/images/`)
+                     .replace(/(src|href)\s*=\s*'images\//g,`$1='data/posts/${p.folder}/images/`);
+    $('#docBody').innerHTML=htmlText||'<p style="color:var(--muted)">No transcript text on file.</p>';
+  }catch(e){
+    $('#docBody').innerHTML='<p style="color:var(--stamp)">Transcript could not be retrieved.</p>';
+  }
+}
+function closeDetail(){$('#overlay').classList.remove('open');document.body.style.overflow='';}
+
+boot();
+</script>
+</body>
+</html>

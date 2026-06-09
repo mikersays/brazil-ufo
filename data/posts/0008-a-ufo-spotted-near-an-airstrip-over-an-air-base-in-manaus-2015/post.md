@@ -1,0 +1,9 @@
+# A UFO spotted near an airstrip in Manaus Air Base  [2015]
+
+*2020-05-30T11:52:33-03:00*
+
+JULY 4th, 2015. Under a clear sky, around 01h40 in the morning, an operator at the Manaus Air Base Tower spotted an object without a defined shape and in a static position, resembling medium intensity lights. The object was seen in the vicinity of one of the airfield’s airstrips. As the official report informs, there was a video and image recording made by cell phone, attached to the occurrence file, but they were not made available to the AN’s UFO Fund. The observations of those who took the testimony of the eyewitness are as follows: “THE OPERATOR OF THE HOUR REPORTED A SIGHTING OF AN OBJECT NEAR THE AIRSTRIP 09 OF SBMN [Manaus Air Base] APPROXIMATELY [AT] 1500FT AND KEPT STANDING [STILL] IN THE AIR FOR 05 MINUTES, IT WAS NOTED THAT SUCH UNIDENTIFIED OBJECT EMITTED LIGHTS OF MEDIUM ITENSITY CONSTANTLY AND SIMPLY DISAPPEARED, SOON AFTER THERE WAS A PRIMARY PLOT IN THE REPEATER (X- 4000), SITUATED IN THE CONTROL TOWER, NEXT TO THE ARANKE POSITION (FIXED) POSITION. THE REPORT CAN BE OBSERVED THROUGH ATTACHED IMAGE AND VIDEO. “
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.734. “Questionário sobre ocorrência de objeto voador não identificado (ovni) em Manaus, Amazonas“. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE

@@ -1,0 +1,9 @@
+# Anti-collision system of a military aircraft detects a UFO and suffers interference in Rondônia [2014]
+
+*2020-05-31T23:33:16-03:00*
+
+MAR 13th, 2014. At 9:00 am, near Porto Velho, Rondônia, a Brazilian Air Force R-99 aircraft reported the detection of an unidentified flying object at about 10 NM [Nautical Miles] by its ACAS [Onboard Anticollision System]. During the 5 minute duration of object detection, an interference in the ACAS / TCAS equipment was reported. The following are the comments on the report collected by the representative of COMDABRA [Brazilian Aerospace Defense Command]: “It was reported by the Guardian 96 tri [crew], a TCAS / ACAS [Onboard Anticollision System] conflict with an unknown object in the vicinity of the SCO Porto Velho specified in item Z, in which identification by COPM-4 was not possible, by the ACC-AZ and crew of the R-99-Guardian 96. It was found that the nearest aircraft was 100NM from the observer, viewed on the rador. The information was obtained through radio and telephone (debriefing) “.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.723. “Questionário sobre ocorrência de objeto voador não identificado (ovni) em Porto Velho, Rondônia“. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE

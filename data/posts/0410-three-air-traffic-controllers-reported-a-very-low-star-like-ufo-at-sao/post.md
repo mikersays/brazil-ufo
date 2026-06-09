@@ -1,0 +1,9 @@
+# Three air traffic controllers reported a very low star-like UFO at São José dos Campos-SP [1986]
+
+*2020-07-12T19:21:30-03:00*
+
+MAY 29th, 1986. Time: 21:10. Duration: 20 minutes. Three military on duty from the Control Tower at São José dos Campos Airport, State of São Paulo, reported the sighting of an unidentified flying object with a star shape that initially was “confused with a satellite moving in the sky but was very low”. According to the witness’s report, the UFO was on Radial 010 of the VOR SJC, had a “flashing white” color and flew at a speed of 80 to 100 kt. Also according to the witness, the UFO “crossed the axis of the runway and moved on bow 260, reaching about 15 NM from the observers. Additional data: “II – Ten D. also informed that the operator of TWR Santos-SP reported that he had seen such objects at the same time, but as TWR-Santos was already closed, it was not possible to question the operator. III – I also inform you that I called the APP-SP, to confirm if the operator had detected something on the radar, however the service team had already been surrendered, and according to the hour operator there was nothing recorded in the incident book of the APP.”/ JCM – 1TEN ESP CTA.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.246. “Objetos voadores não identificados”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

@@ -1,0 +1,9 @@
+# A hypersonic UFO spotted in Curitiba [2013]
+
+*2020-06-02T10:21:39-03:00*
+
+JAN 29th, 2013. Under visibility conditions described as “perfect”, around 04:30 pm, in the city of Curitiba, Paraná, a witness spotted for 30 seconds an unidentified spherical flying object of yellowish red color. According to the report collected by the representative of COMDABRA [Brazilian Aerospace Defense Command], the witness, an electrical industrial engineer, stated that the UFO was large and it was traveling at a “very high speed, above 10,000 km / h” [*above hypersonic speed, 6,150km/h, and thus much higher than the fastest planes ever built], going west/east, in the direction of Quatro Barras, a city in the metropolitan region of Curitiba close to the Iraí Dam. There is no information about the altitude of the observed object or the distance between the observer and the observed UFO. The report in this COMDABRA file also contains information that the witness “already made other observations in the 1970s, in Guaratuba, of an object” moving in a zigzag “, in addition to, in 1980, observing” several small objects , [o] which has also been observed by several people “.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.715. “Questionário sobre ocorrência de objeto voador não identificado (ovni) próximo a Quatro Barras, Paraná”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE

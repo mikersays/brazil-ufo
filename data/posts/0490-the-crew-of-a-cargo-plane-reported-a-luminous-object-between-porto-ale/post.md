@@ -1,0 +1,23 @@
+# The crew of a cargo plane reported a luminous object between Porto Alegre-RS and Guaratuba-PR  [1954]
+
+*2020-07-21T23:22:34-03:00*
+
+TRANSLATION OF THE REPORT
+
+“August 6th, 1954.
+
+The VARIG plane, VBF, taking extra flight, freighter from PA to RJ [Porto Alegre to Rio de Janeiro], with the following crew: Commander Nagib; Co-pilot Ruthildo, Radio-telegraphist Rafael, witnessed what is reported below:
+
+We take off from PA at 17:17 hrs (local) with PLN approved 2,100 meters. VD-1 FL 2250 FA ST 2100 VD-3 RJ. After the passage of FL (18:18 hrs local time), I saw a strong light to the left of the aircraft, which soon disappeared, not paying attention to the fact.
+
+At the time we passed by Guaratuba-PR, I again saw strong light still to the left of the aircraft, disappearing again. After passing through Paranaguá-PR, what happened at 18:55 hrs (local time) I saw again the same light (apparently yellow) still to the left of the aircraft, approximately 3,000 meters between my aircraft and the VD-3. I caught the attention of the crew and we all observed the following: Variation in speed, height and brightness; the speed and height being very intense.
+
+Sometimes it was lower in front of me, sometimes higher in the back, always to the left. We turned off all the onboard lights and communicated with the VBX that was at that time near JV, the object was not seen by the VBX. I transmitted to the VBX all the evolutions of the object consisting of the following: rapid vertical ascent, backward movement maintaining height; after a quick instant, it appeared in front of me lower (since the light was weaker, but constant) the object was not lost sight of until the Atlantic position, when we penetrated below an AS layer (height approximately 2,400 meters) it disappeared, and was not seen anymore.
+
+The variation in luminosity, height and speed were very different and impressed us a lot, so we decided to land in São Paulo.
+
+What was said here was observed by the crew. The shape of the object could not be identified. I compare, looking from the Control Center, with a track light. At most, it was shaped like a balloon. / Commander Nagib, Co-pilot Ruthildo, Telegraf. Raphael /. “
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.3. “Forte luminosidade, com alta velocidade, observada em vôo da Varig, prefixo VBF; relato da tripulação”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

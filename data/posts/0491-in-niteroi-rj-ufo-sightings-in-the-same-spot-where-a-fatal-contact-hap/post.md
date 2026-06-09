@@ -1,0 +1,17 @@
+# In Niterói-RJ, UFO sightings in the same spot where a fatal contact happened [1968]
+
+*2020-07-21T23:23:49-03:00*
+
+## TRANSLATION OF THE REPORT:
+
+SEPT 11th, 1968. An attorney of Rio de Janeiro named João Abud, his wife, an official of Finance of the State of Rio, as well as other people, confirmed the testimony of Professor Hilton Ribeiro, of Colégio Plínio Leitte, and the couple of students Regina Lúsica de Oliveira and José Carlos, who saw a flying saucer on Sunday night at Itaipu beach in Niterói. The teacher and the students were on the beach, contemplating the sea, when they came across a spaceship, totally illuminated and emitting jets of orange light and spinning on its own axis with a translucent top, without touching the ground and only 2 meters from the beach sand. The lovers, frightened already by the series they had been watching on TV – “The Invaders” -, hurriedly left the place.
+
+Later they declared that they were afraid of having any dialogue with the visitors, whose silhouettes they could see through the luminous walls of the disc. The Professor declared that the spacecraft was the size of a VW, emitting colored lights, prevailing orange, and that it remained stationary without touching the ground, rotating slowly around its own axis. The Professor was waiting for the moment to contact the occupants of the ship, but the UFO ended up gaining height and disappearing. The student couple said the disc looked like the one described by a lady resident in Icaraí when the two radio technicians who were found dead – with lead masks in their eyes – on top of Morro do Urubú, disappeared when they tried to contact beings from another planet. The men were found dead, with noboby finding out the cause. At the time, the aforementioned Mrs. and several others saw a flash in the sky and the object described as a flying saucer.
+
+On September 13th, 1968, following the example of what happened at the beginning of the week at Itaipu beach, a flying disc over Niterói appeared again. The object was photographed when it hovered over Morro Vintém, the same place where the two radio technicians, found with lead masks in their eyes, mysteriously appeared dead (?). The photographer who surprised the flying saucer was Mr. Ari Pereira, immediately taking the photos to the Rio de Janeiro authorities interested in the subject.
+
+The photographer reported that when he arrived at his apartment window to escape the heat in his room, he was surprised by a strange colored light that appeared in the sky. After standing still for a few minutes, he began to move at an impressive speed, traversing space. Due to the strong light it emitted, the photo was obtained with a yellow filter. – Walter Buhrer – Largo do Machado – Rio de Janeiro “.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.4. “Avistamentos: relatório-síntese de ocorrências”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

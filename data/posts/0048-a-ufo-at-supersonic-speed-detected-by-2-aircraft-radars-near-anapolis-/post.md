@@ -1,0 +1,9 @@
+# A UFO at supersonic speed detected by 2 aircraft radars near Anapolis Air Base [2010]
+
+*2020-06-06T22:01:49-03:00*
+
+JULY 12th, 2010. Time: 16h15pm. Duration: 15 seconds. The pilot of an F5M fighter jet reported the detection of an unidentified flying object through the radar of his aircraft in the vicinity of the Anápolis Air Base, State of Goiás. According to the pilot, the UFO was heading North at an altitude of 38.000ft, and moving at a supersonic speed of 1.6 Ma [Mach] in front of the F5M at a distance of 20 NM [nautical miles]. Also according to the report by COMDABRA [Brazilian Aerospace Defense Command]: “The F5M pilot reported that he obtained radar contact with the UFO that was approximately on the FL380 in a 180° presentation (face to face). The F5M pilot interpreted that it was the Mirage alert from the Anápolis Air Base, however, after realizing the distance from the base, he disregarded it and the contact had already been lost. He informed that the number 3 of the Smoke Squadron also had contact on the F5M radar, but it was not possible to make the recording. “
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.670. “Questionário sobre ocorrência de objeto voador não identificado (ovni) na Base Aérea de Anápolis,Goiás”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE

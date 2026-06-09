@@ -1,0 +1,9 @@
+# Two oval multicolor UFOs observed during a flight over Florianópolis-SC [1995]
+
+*2020-06-29T23:35:54-03:00*
+
+AUG 23rd, 1995. Time: 23h48 pm. Duration: 10 minutes. During a flight between Brasília [DF] and Porto Alegre [RS], a pilot of the PT-LMO and his passenger spotted two unidentified flying objects when flying over the region of Florianópolis, State of Santa Catarina. According to the pilot, the UFOs were oval, small, and changed color, going from red to blue and violet. The objects flew at high speed, varying their positions in relation to the cardinal points, at an altitude close to FL370 [37,000 ft]. Regarding the proximity to the aircraft, the objects were “very close and sometimes moving away”, making “horizontal and vertical movements”, but always “varying between 9 and 12 hours from the PT-LMO”. The sighting took place on a clear night and was done with the naked eye.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.402. “Questionário sobre a ocorrência de objeto voador na região de Florianópolis, Estado de Santa Catarina”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

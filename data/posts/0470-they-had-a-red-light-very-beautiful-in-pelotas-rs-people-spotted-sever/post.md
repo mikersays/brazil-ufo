@@ -1,0 +1,25 @@
+# “They had a red light, very beautiful” – in Pelotas-RS, people spotted several UFOs [1976]
+
+*2020-07-17T15:44:42-03:00*
+
+SEPT 16th, 1976. 
+
+## Reported by Mr. Luiz do Rosário Real, from Pelotas-RS, in a letter to the Ministry of Aeronautics, in Brasília-DF.
+
+## “16 SEPTEMBER 1976. PELOTAS – RIO GRANDE DO SUL.
+
+At approximately 01:00 am, Mrs. L.G.R. saw two strange luminous objects with the shape of a star, white light, high altitude, which followed one after the other, very fast, in the east-west direction, towards Laranjal.
+
+[Later that day] At 10:30 pm, mr. R. F., 30, married, Ciretran employee from Pelotas, observed the passage of 6 UFOs over Balneário Sto. Antônio, in Laranjal, near his residence. He said he was very surprised to see the strange moving objects, just 15 meters from the ground, lined up, 50 meters apart. They were round in shape, approximately 50 cm in diameter, and made a slight “hiss”.
+
+They had a red light, very beautiful, different from the conventional red. Trajectory; they went from Northwest to Southeast, towards Lagoa dos Patos, where they later disappeared.
+
+NOTE: Due to the size observed, we assume that they would be [remotely] “guided”.
+
+Mr. R. F. was interviewed by us the next day, and he was still visibly impressed with what he saw. He informed that at the moment he saw the objects, he even sat on the floor to better observe them. He could not see details of them, due to the strong light which emanated from them.
+
+The fact was made public a few minutes later, by Radio Cultura of Pelotas, thanks to a call received from a neighbor of Mr. R. F.”
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.169. “Colaboração com o EMAER: informações de avistamentos de ufos (objetos voadores não identificados) nas regiões de Pelotas e Rio Grande, no Rio Grande do Sul, em São Gonçalo, Estado do Rio de Janeiro”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

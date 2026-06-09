@@ -1,0 +1,9 @@
+# A family in Itapoan, Salvador-BA, reported a UFO sighting [1989]
+
+*2020-07-10T11:41:36-03:00*
+
+Salvador, [Bairro de Itapoan], State of Bahia. Date: March 13, 1989. Time: 11:50 pm. Duration: more than one hour. Several people from the same family spotted an unidentified flying object over the city of Salvador, “on the hotizon line”, approximately 20km away [horizontally] from the observers. According to the witnesses, the UFO was round and resembled a “point of light”, had red and blue colors, and flew in “rapid displacements, followed by sudden stops”. The unknown object performed “small horizontal movements, moved away until it became a point of light and then returned”. The reporting witness also acknowledged that the UFO was still being watched while he was still reporting the sighting to the Air Force. The sighting was made with the naked eye and with “clear starry sky.” Complementary data from COMDABRA [Brazilian Aerospace Defense Command]: “At 04: 04Z, I made contact with the operator of TWR-SSA [Salvador Airport Control Tower] and he did not observe anything significant above Salvador”.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.270. “Questionário sobre ocorrência de objetos voadores não identificados um deles sobre Salvador, Estado da Bahia”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

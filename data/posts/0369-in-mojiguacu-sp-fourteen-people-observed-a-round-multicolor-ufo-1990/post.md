@@ -1,0 +1,9 @@
+# In Mojiguaçu-SP, fourteen people observed a round multicolor UFO [1990]
+
+*2020-07-08T14:27:21-03:00*
+
+DEC 22nd, 1990. Time: 9:15 pm. Duration: 90 seconds. In the region of Mojiguaçu, State of São Paulo, fourteen people observed a round UFO with colors varying between yellow, orange and red, and alternating stops and erratical fast movements. According to the reporting witness, he was unable to estimate the altitude of the unidentified flying object and its distance to the observers. Still according to the description, the UFO did not produce a trail of displacement when it was seen on its trajectory. The sighting occurred with the naked eye and in good visibility.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.298. “Questionário sobre ocorrência de objeto voador não identificado na região de Mojiguaçu, Estado de São Paulo”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

@@ -1,0 +1,9 @@
+# A small triangular red UFO spotted by 3 people in Planaltina-DF [1996]
+
+*2020-06-27T17:54:13-03:00*
+
+AUG 9th, 1996. 17:15. Duration: 40 minutes. From the window of a house in Planaltina, Distrito Federal, three people observed an unidentified flying object with a triangular shape, the size of “a single-engine plane” with red sides and white interior. According to the report, the UFO flew at slow speed and low altitude. The object came closer to where the observers were until it was “very close” making a vertical descent. The sighting occurred in “good weather” and in conditions of visibility favorable to observation, and the UFO was sighted with the naked eye.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.459. “Questionário sobre a ocorrência de objeto voador não identificado em Planaltina, Distrito Federal”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

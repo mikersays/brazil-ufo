@@ -1,0 +1,9 @@
+# A UFO ‘manipulated’ on-board instruments of an aircraft after taking off in Curitiba-PR [1991]
+
+*2020-07-07T22:41:02-03:00*
+
+APRIL, 23rd, 1991. Time: 21:00. Duration: 25 minutes. An aircraft pilot reported the sighting of an unidentified flying object that was “apparently round” and with colors “red, blue, white and yellow, following the aircraft”. According to the six witnesses on board the aircraft, the UFO followed the plane at a distance ranging between 30 and 60 NM [nautical miles], and at an altitude also varying between 5,000ft and 10,000ft. The unknown object flew in the “8 hours and 10 hours position”, making “circular movements, going up; non-ballistic movements” and leaving “white trails”. Complementary data from COMDABRA [Brazilian Aerospace Defense Command]: “Tonight Dep [took off from] Curitiba and saw a light on the + FL-250 [25.000ft] in the 8:00 to 10:00 position. Red, blue, white and yellow. Southwest of Sorocaba “. Also: “Alteration of FL [flight level] without any crew member doing it; some manipulation of on-board instruments.”
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.310. “Questionário sobre ocorrência de objeto voador não identificado na região de Curitiba, Estado do Paraná”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

@@ -1,0 +1,9 @@
+# 5 people observed a star-like multicolor UFO in Curitiba-PR [1993]
+
+*2020-07-06T12:01:33-03:00*
+
+MARCH 3rd, 1993. Time: 23:00. Duration: 1 hour. A man from the Orleans neighborhood in Curitiba, State of Paraná, reported the sighting of an unidentified flying object when he was with four people. According to his description, the UFO was shaped like a star, with red color while moving, and white when stationary. According to the witnesses, the UFO had an “extremely fast” speed when it moved in a straight path through the North-West direction at high altitude. The sighting took place under good visibility and with the naked eye.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.340. “Questionário sobre ocorrência de objeto voador não identificado na região do bairro de Orleans, Curitiba, Estado do Paraná”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

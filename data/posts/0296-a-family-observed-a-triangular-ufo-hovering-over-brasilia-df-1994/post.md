@@ -1,0 +1,9 @@
+# A family observed a triangular UFO hovering over Brasília-DF [1994]
+
+*2020-07-01T00:06:30-03:00*
+
+DEC 13th, 1994. 21:20. Duration: 30 minutes. At a cottage near Brasilia, Distrito Federal, a family observed an unidentified flying object shaped like a triangle, and “slightly larger than the Morning Star” as seen in the sky. According to the witness who contacted the COMDABRA [Brazilian Aerospace Defense Command], the UFO emitted “intermittent flashes in the colors White, Red and Blue”, and remained stationary during the time of the sighting. The witness stated that the UFO was observed from a distance that he could not estimate, but, from his perspective, he stated that the object remained “just above the horizon at 15 degrees”. The entire sighting was performed with a “clear starry sky” and the use of binoculars. In the COMDABRA’s report, the following observations were made: “APP Brasília consulted; aircrafts did not see anything; APP BS and COPM I did not see anything. Obs. CMI released radio balloon probe [at] 21:28 pm (after the event started) “.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.386. “Questionário sobre a ocorrência de objeto voador não identificado no Distrito Federal”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

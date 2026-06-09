@@ -1,0 +1,9 @@
+# Aircraft pilot performs evasive maneuvers after detecting UFO just 2,500 feet away [2015]
+
+*2020-05-30T14:57:15-03:00*
+
+JUNE 17, 2015. At 8h52pm, a pilot with an aircraft 129 km from Recife, capital of Pernambuco, was alerted by the TCAS (Traffic Collision Avoidance System) of his plane that an object was dangerously close to his aircraft moving back and forth. According to the pilot’s descriptions, the visibility and flight conditions were “CAVOK” (Ceiling and Visibility Okay). The report wrote by the COMDABRA’s representative [Brazilian Aerospace Defense Command] brings the following observations made by the pilot: “Hotel traffic [a military codename for UFO] viewed only at TCAS 2,500 feet below the observer. He needed to perform evasive maneuver. [He] saw in the TCAS sudden movements going from right to left repeatedly; after having overtaken the Traffic [UFO], he noticed [that] the “UFO” abruptly increased its speed, again overtaking him, and disappeared from the equipment. The contact took place in RDL311 at 70NM from REC [Recife- PE Airport].
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.733. “Questionário sobre ocorrência de objeto voador não identificado (ovni)“. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE

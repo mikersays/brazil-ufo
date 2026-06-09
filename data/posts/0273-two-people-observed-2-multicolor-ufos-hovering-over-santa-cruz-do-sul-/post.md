@@ -1,0 +1,9 @@
+# Two people observed 2 multicolor UFOs hovering over Santa Cruz do Sul-RS [1996]
+
+*2020-06-29T17:03:13-03:00*
+
+MARCH 20th, 1996. Time: 20h45. Duration: 15 minutes. On a night of clear and cloudless sky, in the backyard of their residence in Santa Cruz, State of Rio Grande do Sul, two people observed, with the naked eye and binoculars, two unidentified flying objects positioned “in the East of their residence”. The two objects were round, and “the same size as an airplane”, with blue, red and gold colors. The UFOs were flying close to each other with the altitude “of an airplane at normal flight level”. Still according to the witnesses, it was as if the UFOs were aircrafts, but regarding the speed, they were “fast; but slower than a shooting star, and faster than an ordinary plane”. The unknown objects remained “most of the time stopped, but had vertical and horizontal trajectories for a short time”. There were no reports of condensation trails or photographs taken of the sighting.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.414. “Questionário sobre a ocorrência de objeto voador na região de Santa Cruz do Sul, Estado do Rio Grande do Sul”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

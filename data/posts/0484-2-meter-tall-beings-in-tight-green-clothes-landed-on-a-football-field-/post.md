@@ -1,0 +1,9 @@
+# 2-meter-tall beings in tight green clothes landed on a football field in Belo Horizonte-MG [1967]
+
+*2020-07-19T15:29:10-03:00*
+
+On September 24th, 1967, in Belo Horizonte-MG, 2-meter-tall beings with tight green clothes, similar to that of divers, emerged from a mushroom-shaped object, landed on a soccer field, leading the young Fábio Diniz to despair. Fábio said that the men had two wide round eyes, with thick triangular eyebrows. Their clothes and nostrils were protected by a dark and protruding screen. Covering the base of this bulkhead was a tube that ran down the chest to the right heel, then up the back of the neck. On the head, an antenna and an unknown weapon in his hand. The disk was about 20 meters in diameter, with a row of portholes [windows] and a steady upper triangular part. Fábio ran to the Police and […] with technicians from the Civil Investigation Center for Unidentified Aerial Objects, who filmed, photographed and collected carbonized material for analysis. They found a depression in the place where the ship was landed. The recorded testimony lead to a case reconstruction and a sketch of beings.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.136. “Cópias de documentos da década de 1960, parcialmente legíveis”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

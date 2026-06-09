@@ -1,0 +1,9 @@
+# A round spinning UFO was sighted in Taguatinga-DF flying low [1990]
+
+*2020-07-08T16:27:19-03:00*
+
+SET 29th, 1990. Time: 09:15. Duration: 20 minutes. Four people in the region of Taguatinga Sul, Distrito Federal, observed an unidentified flying object, with a round shape and more than a meter in diameter. According to the reporting witness, the UFO had a dark lead color, and “it was not fast and rotated around its own axis”. The UFO was seen over the Catholic University at a height of 200 meters, making a trajectory in the direction “Guará II – Taquagtinga Sul, Gama entrance”. The sighting was carried out in clear skies and with the naked eye. Complementary data from COMDABRA [Brazilian Aerospace Defense Command]: “The object would have risen more than 200 meters to 400 meters over the Catholic University. Next to the object there was a VASP aircraft, which, according to Mr. Mazini, was low and proceeding to land; the object was higher than the aircraft. “
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.292. “Questionário sobre ocorrência de objeto voador não identificado na região de Taguatinga Sul, na altura da Universidade Católica, no Distrito Federal.”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

@@ -1,0 +1,9 @@
+# A pilot reported a very luminous object near Porto Nacional-TO [1990]
+
+*2020-07-08T16:44:20-03:00*
+
+SEPT 8th, 1990. Time: 19:08. Duration: 110 minutes. As they were flying over the region of Porto Nacional, State of Tocantins, a pilot and a co-pilot in the aircraft prefix PT-LFX spotted with the naked eye and in a clear sky, an unidentified flying object making horizontal and vertical trajectories, ascending “in a uniform manner”. According to the description, the unknown object was round, small and “very luminous; predominantly red and orange”, and had a “very high” speed. Also according to the pilot, the UFO moved “from W to E, crossed the 12 o’clock hours observed. Crossing the trajectory of the PT-LFX perpendicularly”. The UFO was at an estimated distance of 100NM from the aircraft flying on FL-210 [21,000ft of altitude]. Complementary data from COMDABRA [Brazilian Aerospace Defense Command]: “At the heart of the observation, he thought it was a different object due to the diffusion of colors. After a long observation, the crew member believes that it is a star”.
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.291. “Questionário sobre ocorrência de objeto voador não identificado na região de Porto Nacional, Tocantins”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE <

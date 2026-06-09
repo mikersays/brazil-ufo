@@ -1,0 +1,11 @@
+# A shining UFO was seen and detected by an airline pilot near Recife [2006]
+
+*2020-06-08T19:32:55-03:00*
+
+NOV 12th, 2006. Time: 7:00 pm. Duration: 5 minutes. An unidentified flying object was sighted by the pilot and detected by the TCAS (Traffic Collision Avoidance System) of the airline of flight VARIG 9511 from Lisbon, Portugal, to Recife, Pernambuco. According to the witness’s report, the UFO had the appearance of a luminous point and was sighted by the pilot under conditions of visibility described as “optimal”,  and 3 nautical miles away from flight VARIG9511, with an estimated speed of 350km and at an altitude of 1,000 ft, moving from North to South. Additional observations in the COMDABRA’s [Brazilian Aerospace Defense Command] report add that:
+
+“The commander […] of VARIG 9511 from Lisbon, Portugal, to Recife, Pernambuco, after performing a TCAS […] maneuver, which triggered APP-RE [Recife Approach Control] on possible traffic at TCAS. APP-RE reported that it was unaware of the traffic and that the radars were working normally. Six (six) minutes later, when it was at 1,000ft, it had visual contact with something described as a light spot flying in the F100. It immediately checked the equipment [. ..] and found that it was ok. On the ground, the VARIG mechanic checked all the equipment. The commander […] said that there could be many possibilities, […] and perhaps an checking the transponder – and who didn’t know exactly what had really happened. “
+
+Cf. ARQUIVO NACIONAL (Brasil). Sistema de Informações do Arquivo Nacional (SIAN). Fundo ‘Objeto Voador Não Identificado (OVNI)’. Código de Referência BR DFANBSB ARX.0.0.654. “Ocorrência de tráfego hotel entre Recife, Estado de pernambuco, e João Pessoa, Estado da Paraíba”. Brasília, DF. 1952 a 2015. Último acesso realizado em 27/05/2020.
+
+The BRAZILIAN UFO ARCHIVES website is a private initiative and IS NOT endorsed or sponsored by the Arquivo Nacional do Brasil [see our ‘Info’ page]. *THE ORIGINAL FILE WITH THE CASE REFERRED TO IN THIS TEXT CAN BE FOUND IN THE DOCUMENTAL COLLECTION OF “ARQUIVO NACIONAL DO BRASIL, LOCATED IN THE “OBJETO VOADOR NÃO IDENTIFICADO (OVNI)” FUND, UNDER THE REFERENCE CODE [“Código de Referência”] MENTIONED ABOVE. HERE IS THE LINK TO SEARCH THEIR WEBSITE
