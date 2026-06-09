@@ -41,7 +41,7 @@ from html.parser import HTMLParser
 SITE = "brazilianufoarchives.wordpress.com"
 API = f"https://public-api.wordpress.com/rest/v1.1/sites/{SITE}/posts/"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA = os.path.join(ROOT, "data")
+DATA = os.path.join(ROOT, "docs", "data")  # served by GitHub Pages from /docs
 POSTS_DIR = os.path.join(DATA, "posts")
 
 UA = "brazil-ufo-archiver/1.0 (+local extraction tool)"

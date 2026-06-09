@@ -1,59 +1,80 @@
-# Brazilian UFO Archives — Local Case Browser
+# 🛸 Brazilian UFO Archives — Declassified Case Browser
 
-Extracts every published post from [brazilianufoarchives.com](https://brazilianufoarchives.com/)
-into an organized local filesystem, enriches each case with structured metadata,
-and serves them through a single-page "declassified dossier" browser.
+A self-contained archive and browser for **493 Brazilian UFO case reports
+(1952–2015)** drawn from the public records of the Arquivo Nacional do Brasil,
+mirrored from [brazilianufoarchives.com](https://brazilianufoarchives.com/).
 
-## What's here
+**🔭 Live site:** https://mikersays.github.io/brazil-ufo/
+
+Every case is extracted to disk with its full transcript and photographs, enriched
+with structured metadata, and served through a single-page "SIOANI Dossier"
+browser styled after a declassified government archive.
+
+![cases](https://img.shields.io/badge/cases-493-d9a441) ![years](https://img.shields.io/badge/years-1952%E2%80%932015-46938a) ![photographs](https://img.shields.io/badge/photographs-41-bf3b2b)
+
+---
+
+## Features
+
+- **Searchable, sortable grid** of all 493 case files
+- **Filters** — year-of-sighting range, state (24 UFs), craft shape, occupants
+  reported, physical effects, and source type
+- **Per-case dossier view** — a metadata sidebar plus the full transcript and any
+  photographic plates, rendered inline
+- **100% static** — no backend; just HTML/CSS/JS reading flat JSON + files
+
+## How it was built
+
+| Stage | What happens |
+|-------|--------------|
+| **Extract** | `tools/extract.py` pages through the WordPress.com REST API and writes every published post to disk, downloading full-resolution photos. |
+| **Enrich** | A swarm of analysis agents read each case and produced structured metadata (year, location, craft shape, occupants, effects, source, summary, keywords). |
+| **Merge** | `tools/merge_enrichment.py` folds that metadata into the catalog. |
+| **Browse** | `docs/index.html` serves it all as a filterable archive. |
+
+## Repository layout
 
 ```
-index.html                 # the SIOANI Dossier browser (open via local server)
+docs/                         # ← GitHub Pages site root
+  index.html                  # the SIOANI Dossier browser
+  .nojekyll                   # serve data/ verbatim (no Jekyll processing)
+  data/
+    index.json                # catalog of all 493 cases (with enrichment)
+    enrichment.json           # raw structured metadata
+    posts/
+      NNNN-<slug>/
+        post.json             # raw API object
+        content.html          # cleaned body, <img> rewritten to local files
+        post.md               # plain-text transcript
+        meta.json             # per-post catalog record + enrichment
+        images/               # full-resolution photographs
 tools/
-  extract.py               # pulls posts + photos from the WordPress.com API
-  merge_enrichment.py      # folds swarm metadata into the index / per-post meta
-data/
-  index.json               # catalog of all 493 cases (incl. enrichment fields)
-  enrichment.json          # raw structured metadata from the analysis swarm
-  posts/
-    NNNN-<slug>/
-      post.json            # raw API object
-      content.html         # cleaned body, <img> rewritten to local files
-      post.md              # plain-text transcript
-      meta.json            # per-post catalog record + enrichment
-      images/              # full-resolution photographs
+  extract.py                  # API extractor + image downloader
+  merge_enrichment.py         # merges enrichment into the catalog
 ```
 
-493 case files (1952–2015) and 41 archival photographs.
+## Run it locally
 
-## (Re)build the corpus
+The page fetches `data/` over HTTP, so serve it (don't open as `file://`):
+
+```bash
+python3 -m http.server 8787 --directory docs
+# open http://127.0.0.1:8787/
+```
+
+## Rebuild the corpus
 
 ```bash
 python3 tools/extract.py              # full extraction (API + image download)
 python3 tools/extract.py --limit 10   # quick test
-python3 tools/merge_enrichment.py     # merge data/enrichment.json into the index
+python3 tools/merge_enrichment.py     # merge docs/data/enrichment.json into the index
 ```
-
-## Serve the browser
-
-The page fetches `data/` over HTTP, so it must be served (not opened as `file://`):
-
-```bash
-python3 -m http.server 8787
-# then open http://127.0.0.1:8787/
-```
-
-## Browser features
-
-- Searchable, sortable grid of all 493 cases
-- Filters: year-of-sighting range, state (UF), craft shape, occupants, reported
-  effects, source type
-- Per-case dossier view with a metadata sidebar, the full transcript, and photo plates
 
 ## Provenance & caveats
 
 The Brazilian UFO Archives is a private initiative and is **not** endorsed by the
-Arquivo Nacional do Brasil. Original documents live in the *Objeto Voador Não
-Identificado (OVNI)* fund (ref. BR DFANBSB ARX.0.0). The structured metadata
-(year, location, shape, occupants, effects, summaries) was generated by an
-automated analysis swarm and may contain errors — always consult each case's
-source text.
+Arquivo Nacional do Brasil. Original documents reside in the *Objeto Voador Não
+Identificado (OVNI)* fund (reference code **BR DFANBSB ARX.0.0**). The structured
+metadata (year, location, shape, occupants, effects, summaries) was generated by an
+automated analysis swarm and **may contain errors** — always consult each case's
+source text, which is reproduced verbatim.

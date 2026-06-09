@@ -16,7 +16,7 @@ import os
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA = os.path.join(ROOT, "data")
+DATA = os.path.join(ROOT, "docs", "data")  # served by GitHub Pages from /docs
 ENRICH = os.path.join(DATA, "enrichment.json")
 INDEX = os.path.join(DATA, "index.json")
 
